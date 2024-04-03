@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: large;
+}
+
+#container{
+     width: 1200px;
+     margin: 0 auto;
+     gap: 5px;
+
+}
+
+
+a{
+    color: #0176C0;
+    font-size: large;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul a{
+    text-decoration: none;
+}
+
+#apple img{
+    
+    margin-left: 779px;
+    width: auto;
+
+}
+
+#apple{
+    background-color: #0176C0;
+
+}
+
+#apple h2{
+    color: white;
+    width: 30%;
+
+}
